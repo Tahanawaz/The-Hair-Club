@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "NOIR & CO. | Premium Men's Salon Lahore",
-  description: "Precision haircuts, beard sculpting, skin care and modern grooming at NOIR & CO., a premium men's salon in Lahore.",
-  openGraph: { title: "NOIR & CO. | Modern Men's Grooming", description: "Precision cuts. Considered grooming. Book your chair in Lahore.", type: "website" },
+  title: "The Hair Club | Signature by Ayyan Azhar",
+  description: "Precision haircuts, beard sculpting, skin care and signature men's grooming by Ayyan Azhar at The Hair Club, Ali Town, Lahore.",
+  openGraph: { title: "The Hair Club | Signature Men's Grooming", description: "Precision cuts. Considered grooming. Book your chair in Ali Town, Lahore.", type: "website" },
   icons: {
-    icon: "/favicon.svg",
-    shortcut: "/favicon.svg",
+    icon: "/images/the-hair-club-logo.png",
+    shortcut: "/images/the-hair-club-logo.png",
   },
 };
 

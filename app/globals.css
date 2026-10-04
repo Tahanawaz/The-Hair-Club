@@ -22,3 +22,5 @@ footer{padding:3rem 0;background:#0d0d0c;color:white}.footer-main{display:grid;g
 @media(max-width:1023px){.package-grid{grid-template-columns:repeat(2,1fr)}.package-card.featured{transform:none}.package-card.featured:hover{transform:translateY(-8px)}}
 @media(max-width:700px){.package-intro{align-items:start;flex-direction:column}.package-note{max-width:none}.package-grid{grid-template-columns:1fr}.package-card{min-height:auto}.package-card h3{min-height:0}.packages:before{font-size:20rem}}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none}.hero .eyebrow,.hero h1,.hero-copy,.hero-actions,.hero-image{animation:none}}
+.brand-logo{display:block;width:136px;height:70px;object-fit:contain;object-position:left center}.brand:hover .brand-logo{filter:drop-shadow(0 0 10px #d5b87955)}footer .brand-logo{width:180px;height:104px}
+@media(max-width:700px){.brand-logo{width:120px;height:66px}}
