@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "The Hair Club | Signature by Ayyan Azhar",
-  description: "Precision haircuts, beard sculpting, skin care and signature men's grooming by Ayyan Azhar at The Hair Club, Ali Town, Lahore.",
+  description: " Haircut, beard sculpting, skin care and signature men's grooming by Ayyan Azhar at The Hair Club, Ali Town, Lahore.",
   openGraph: { title: "The Hair Club | Signature Men's Grooming", description: "Precision cuts. Considered grooming. Book your chair in Ali Town, Lahore.", type: "website" },
   icons: {
     icon: "/images/the-hair-club-logo.png",
